@@ -1,0 +1,10 @@
+site_name: Ivan Yashkov
+site_url: https://evn1111.github.io/mkdocs-yashkov/
+theme:
+  name: material
+site_author: Ivan Yashkov
+coopyright: Ivan Yashkov, 2024
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
