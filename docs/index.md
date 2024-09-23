@@ -1,19 +1,30 @@
-# Welcome to MkDocs
+# Репозиторий для работ по курсу информатика
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Вот сюда нужно будет в первой работе с гитом добавит свое ФИО
 
-## Commands
+## Яшков Иван Александрович
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Работа с репозиторием
 
-## Project layout
+В репозитории присутствуют 2 каталога - для рабработчиков на python и golang.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Необходимо выбрать ваш стек и в соответствующем каталоге открыть файл проекта `informatics.code-workspace` через vscode.
+Для тех, кто использует другие среды разработки - пишите в чат, попробуем помочь настроить. Дальнейшие инструкции для каждого 
+соответствующего проекта находятся в соответствующем `README.md` файле проекта.
 
-## TEST 1234
+## Примеры работы с markdown
+
+Обычный текст.
+Еще текст на той же строке (в том же абзаце).
+
+Текст в новом абзаце
+
+## Подзаголовок
+
+```
+Блок кода
+```
+
+```python
+print("Иван Яшков")
+```
