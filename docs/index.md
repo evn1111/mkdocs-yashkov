@@ -26,5 +26,5 @@
 ```
 
 ```python
-print("Иван Яшков")
+print("Ivan Yashkov")
 ```
